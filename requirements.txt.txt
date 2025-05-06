@@ -1,8 +1,9 @@
 streamlit
 pandas
+numpy
 requests
-scikit-learn
-joblib
-matplotlib
-plotly
 twilio
+matplotlib
+joblib
+seaborn
+scikit-learn
